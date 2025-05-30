@@ -1,0 +1,40 @@
+{
+  "audiovisual_files": {
+    "bd22deac-2f84-4fb6-82f8-eb49d33df30b": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    },
+    "dde8f741-fde6-480e-afa5-b4f1dcd768ee": {
+      "label": "SpokenWeb UAlberta in 360°",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ualberta.aviaryplatform.com/iiif/sq8qb9x26g/manifest",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "SpokenWeb UAlberta in 360°",
+  "created_at": "2025-05-30T20:23:46.179Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-05-30T20:23:46.179Z",
+  "updated_by": "ndamours14"
+}
