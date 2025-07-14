@@ -17,7 +17,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nA fusion of past and present technology. Literary recordings from the 1960s-80s are played on a 1960s Sony TC-102 portable reel-to-reel tape player, in the same Edmonton locations where they were originally recorded decades earlier. This 360° video was recorded using an Insta360 X4 camera and a Zoom H3-VR ambisonic mic, and can be viewed using a VR headset to visually and sonically place the viewer inside the recorded moment.\n\nThis video was created by Natasha D'Amours and Sarah Freeman for the 2025 SpokenWeb Symposium, with assistance from Michael O’Driscoll, Sean Luyk, Michael MacKenzie, Xuege Wu, Robert Montgomery at the Northern Alberta Jubilee Auditorium, and Courtney Higgins at the Art Gallery of Alberta.\n\nThe full audio of each recording played in this video can be found at the URLs below:\n- Humanities Center L-3, Dorothy Livesay, 1974: tinyurl.com/Livesay1974\n- Students’ Union Building, Stephen Scobie, 1971: tinyurl.com/Scobie1971\n- Jubilee Auditorium, Shirley Neuman & Doug Barbour, 1986: tinyurl.com/Barbour1986\n- Art Gallery of Alberta, Dorothy Livesay, 1969: tinyurl.com/Livesay1969"
+          "text": ""
         }
       ]
     }
@@ -26,6 +26,9 @@
   "label": "SpokenWeb UAlberta in 360°",
   "created_at": "2025-07-14T16:29:47.776Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-14T16:29:47.776Z",
-  "updated_by": "ndamours14"
+  "updated_at": "2025-07-14T16:43:41.924Z",
+  "updated_by": "ndamours14",
+  "av_file_order": [
+    "9bec410a-f349-4c2e-a0f5-93e1bea546ba"
+  ]
 }
