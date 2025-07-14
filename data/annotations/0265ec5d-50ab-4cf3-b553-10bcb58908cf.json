@@ -48,7 +48,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Audio was originally recorded in 1971, at the University of Alberta, in the Students' Union Building (at the time, it was the Students' Union Building Art Gallery). Stephen Scobie discusses his home in Edmonton, and performs his poem \"Thirteen.\" The original recording can be listened to at this link: tinyurl.com/Scobie1971 The segment played begins at minute 1:35 and ends at 2:25."
+              "text": "Audio was originally recorded in 1971, at the University of Alberta, in the Students' Union Building (at the time, it was the Students' Union Building Art Gallery). Stephen Scobie discusses his home in Edmonton, and performs his poem \"Thirteen.\" The original recording can be listened to at this link: "
+            },
+            {
+              "text": "tinyurl.com/Scobie1971",
+              "link": "https://tinyurl.com/Scobie1971"
+            },
+            {
+              "text": ". The segment played begins at minute 1:35 and ends at 2:25."
             }
           ]
         }
