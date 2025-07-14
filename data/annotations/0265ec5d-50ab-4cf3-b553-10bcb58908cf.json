@@ -164,7 +164,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Audio was originally recorded in 1974, at the University of Alberta, in the Humanities Center, room L-3. Dorothy Livesay performs section V of her poem \"The Pied Piper of Edmonton.\" The original recording can be listened to at this link: tinyurl.com/Livesay1974 The segment played begins at minute 20:11 and ends at 20:56."
+              "text": "Audio was originally recorded in 1974, at the University of Alberta, in the Humanities Center, room L-3. Dorothy Livesay performs section V of her poem \"The Pied Piper of Edmonton.\" The original recording can be listened to at this link: "
+            },
+            {
+              "text": "tinyurl.com/Livesay1974",
+              "link": "https://tinyurl.com/Livesay1974"
+            },
+            {
+              "text": ". The segment played begins at minute 20:11 and ends at 20:56."
             }
           ]
         }
