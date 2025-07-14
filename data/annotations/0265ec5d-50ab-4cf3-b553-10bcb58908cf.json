@@ -128,7 +128,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Audio was originally recorded in 1969, at the Art Gallery of Alberta (at the time, it was the Edmonton Art Gallery). Dorothy Livesay introduces \"The Merry Devils of Edmonton\" broadsheet and her poem \"Aliens All.\" The original recording can be listened to at this link: tinyurl.com/Livesay1969 The segment played begins at minute 0:13 and ends at 1:13."
+              "text": "Audio was originally recorded in 1969, at the Art Gallery of Alberta (at the time, it was the Edmonton Art Gallery). Dorothy Livesay introduces \"The Merry Devils of Edmonton\" broadsheet and her poem \"Aliens All.\" The original recording can be listened to at this link: "
+            },
+            {
+              "text": "tinyurl.com/Livesay1969",
+              "link": "https://tinyurl.com/Livesay1969"
+            },
+            {
+              "text": ". The segment played begins at minute 0:13 and ends at 1:13."
             }
           ]
         }
