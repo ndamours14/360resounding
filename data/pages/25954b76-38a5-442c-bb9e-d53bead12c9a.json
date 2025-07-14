@@ -46,7 +46,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nThe full audio of each recording played in this video can be found at the URLs below:"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The full audio of each recording played in this video can be found at the URLs below:"
         }
       ]
     },
@@ -112,6 +120,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-14T16:39:29.109Z",
+  "updated_at": "2025-07-14T16:41:58.410Z",
   "updated_by": "ndamours14"
 }
