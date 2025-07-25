@@ -4,8 +4,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Re-Sounding Poetries: Collections, Classrooms, Communities",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://events.ok.ubc.ca/wp-content/uploads/sites/121/2025/04/SpokenWeb_graphic_1000x500.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
           "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "Re-Sounding Poetries: Collections, Classrooms, Communities."
         }
       ]
     },
@@ -40,25 +66,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://events.ok.ubc.ca/wp-content/uploads/sites/121/2025/04/SpokenWeb_graphic_1000x500.jpg",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
-          "text": ""
+          "text": "Re-Sounding Poetries: Collections, Classrooms, Communities\n\n"
         }
       ]
     },
@@ -281,6 +289,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-25T21:10:34.281Z",
+  "updated_at": "2025-07-25T21:15:59.364Z",
   "updated_by": "ndamours14"
 }
