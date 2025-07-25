@@ -35,7 +35,7 @@
           "link": "https://spokenweb.ca/institutes/#/re-sounding-poetries-collections-classrooms-communities"
         },
         {
-          "text": ".\n "
+          "text": "."
         }
       ]
     },
@@ -43,13 +43,13 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": " \n"
         }
       ]
     },
     {
       "type": "image",
-      "url": "https://images.squarespace-cdn.com/content/v1/5de1ac5d065f5b7bc7586098/9fe4b549-a72f-4652-aa72-5597406d57d3/As+part+of+the+SpokenWeb+Sound+Institute+Re-Sounding+Poetries-+Collections%2C+Classrooms%2C+Communities%2C+we+are+excited+to+invite+you+to+two+exhibitions+running+May+14-18+and+a+special+event+here+on+May+16%2C+7-9-30pm+at+the+Alternator.Join+the+S.jpg",
+      "url": "https://events.ok.ubc.ca/wp-content/uploads/sites/121/2025/04/SpokenWeb_graphic_1000x500.jpg",
       "children": [
         {
           "text": ""
@@ -60,15 +60,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": " "
+          "text": "\n"
         }
       ]
     },
@@ -291,6 +283,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-25T20:54:34.456Z",
+  "updated_at": "2025-07-25T21:00:30.251Z",
   "updated_by": "ndamours14"
 }
