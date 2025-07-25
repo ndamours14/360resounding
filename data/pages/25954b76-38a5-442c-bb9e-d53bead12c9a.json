@@ -68,7 +68,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "As part of the SpokenWeb Collections Showcase, where each institutions was invited to creatively present on their team's collection, the University of Alberta SpokenWeb team presented a 360° video (sometimes referred to as a virtual reality or VR video) entitled "
+          "text": "As part of the SpokenWeb Collections Showcase, where each institution was invited to creatively present on their team's collection, the University of Alberta SpokenWeb team presented a 360° video (sometimes referred to as a virtual reality or VR video) entitled "
         },
         {
           "text": "SpokenWeb UAlberta in 360°",
@@ -229,14 +229,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "At the end of the Institute, the SpokenWeb team came together to record a manifesto. Loosely using the prompt "
+          "text": "At the end of the Sound Institute, the SpokenWeb team came together to record a manifesto. Loosely using the prompt "
         },
         {
           "text": "SpokenWeb is...",
           "italic": true
         },
         {
-          "text": ", each attendee was invited to share a thought, a feeling, a micro-poem — any expression of their feelings towards SpokenWeb and the past seven years of the partnership."
+          "text": ", each attendee was invited to share a thought, a feeling, a micro-poem — any expression of their feelings about SpokenWeb and the past seven years of the partnership."
         }
       ]
     },
@@ -252,7 +252,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Watch the 2025 SpokenWeb Manifesto, recorded in 360°."
+          "text": "Watch the 2025 SpokenWeb Manifesto, recorded in 360°.",
+          "link": "https://ndamours14.github.io/360resounding/events/spokenweb-manifesto-2025/"
         }
       ]
     },
@@ -281,6 +282,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-25T20:44:15.312Z",
+  "updated_at": "2025-07-25T20:51:08.681Z",
   "updated_by": "ndamours14"
 }
