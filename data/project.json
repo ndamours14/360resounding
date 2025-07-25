@@ -1,1 +1,121 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"ndamours14","avatar_url":"https://avatars.githubusercontent.com/u/194835216?v=4","admin":true}],"project":{"github_org":"ndamours14","is_private":false,"title":"SpokenWeb 2025: 360° Videos and Manifestos","description":"In May of 2025, members of the SpokenWeb SSHRC Partnership came together at the University of British Columbia Okanagan in Kelowna, BC for the partnership's final annual Sound Institute, entitled Re-Sounding Poetries: Collections, Classrooms, Communities. For four days, poets and professors, archivists and artists, librarians and researchers, and creatives of all stripes came together for a \"summer camp\" of immersive literary audio experiences.","language":"en","slug":"360resounding","creator":"ndamours14","authors":"Natasha D'Amours and Sarah Freeman","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[{"category":"Performers","color":"#ADFFD9"},{"color":"#88C9F2","category":"Years"},{"color":"#CBE364","category":"Locations"}],"tags":[{"tag":"Dorothy Livesay","category":"Performers"},{"tag":"Stephen Scobie","category":"Performers"},{"tag":"Shirley Neuman","category":"Performers"},{"tag":"Doug Barbour","category":"Performers"},{"tag":"1971","category":"Years"},{"tag":"1986","category":"Years"},{"tag":"1969","category":"Years"},{"tag":"University of Alberta","category":"Locations"},{"tag":"Humanities Center","category":"Locations"},{"tag":"Students' Union Building","category":"Locations"},{"tag":"Jubilee Auditorium","category":"Locations"},{"tag":"Art Gallery of Alberta","category":"Locations"},{"category":"Years","tag":"1974"}]},"created_at":"2025-05-30T20:16:20.734Z","updated_at":"2025-07-25T21:50:23.718Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"ce1d7b80-65bc-4a58-b2a5-418af7d90588":{"content":[],"created_at":"2025-05-30T20:16:20.771Z","created_by":"ndamours14","title":"360° Video and Ambisonic Audio as a Method of Re-Sounding","updated_at":"2025-05-30T20:16:20.771Z","updated_by":"ndamours14","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["ce1d7b80-65bc-4a58-b2a5-418af7d90588"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "ndamours14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194835216?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "ndamours14",
+    "is_private": false,
+    "title": "SpokenWeb 2025: 360° Videos and Manifestos",
+    "description": "In May of 2025, members of the SpokenWeb SSHRC Partnership came together at the University of British Columbia Okanagan in Kelowna, BC for the partnership's final annual Sound Institute, entitled Re-Sounding Poetries: Collections, Classrooms, Communities. For four days, poets and professors, archivists and artists, librarians and researchers, and creatives of all stripes came together for a \"summer camp\" of immersive literary audio experiences.",
+    "language": "en",
+    "slug": "360resounding",
+    "creator": "ndamours14",
+    "authors": "Natasha D'Amours",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Performers",
+          "color": "#ADFFD9"
+        },
+        {
+          "color": "#88C9F2",
+          "category": "Years"
+        },
+        {
+          "color": "#CBE364",
+          "category": "Locations"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dorothy Livesay",
+          "category": "Performers"
+        },
+        {
+          "tag": "Stephen Scobie",
+          "category": "Performers"
+        },
+        {
+          "tag": "Shirley Neuman",
+          "category": "Performers"
+        },
+        {
+          "tag": "Doug Barbour",
+          "category": "Performers"
+        },
+        {
+          "tag": "1971",
+          "category": "Years"
+        },
+        {
+          "tag": "1986",
+          "category": "Years"
+        },
+        {
+          "tag": "1969",
+          "category": "Years"
+        },
+        {
+          "tag": "University of Alberta",
+          "category": "Locations"
+        },
+        {
+          "tag": "Humanities Center",
+          "category": "Locations"
+        },
+        {
+          "tag": "Students' Union Building",
+          "category": "Locations"
+        },
+        {
+          "tag": "Jubilee Auditorium",
+          "category": "Locations"
+        },
+        {
+          "tag": "Art Gallery of Alberta",
+          "category": "Locations"
+        },
+        {
+          "category": "Years",
+          "tag": "1974"
+        }
+      ]
+    },
+    "created_at": "2025-05-30T20:16:20.734Z",
+    "updated_at": "2025-07-25T21:55:02.399Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "ce1d7b80-65bc-4a58-b2a5-418af7d90588": {
+      "content": [],
+      "created_at": "2025-05-30T20:16:20.771Z",
+      "created_by": "ndamours14",
+      "title": "360° Video and Ambisonic Audio as a Method of Re-Sounding",
+      "updated_at": "2025-05-30T20:16:20.771Z",
+      "updated_by": "ndamours14",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "ce1d7b80-65bc-4a58-b2a5-418af7d90588"
+  ]
+}
