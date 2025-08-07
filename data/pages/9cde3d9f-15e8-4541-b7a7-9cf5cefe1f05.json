@@ -4,11 +4,12 @@
   "created_by": "ndamours14",
   "title": "Poet and Critic: Plenary Readings at Edmonton Art Gallery, 1969",
   "slug": "poet-and-critic-plenary-readings-at-edmonto-2",
-  "updated_at": "2025-08-07T15:36:49.374Z",
+  "updated_at": "2025-08-07T15:39:29.647Z",
   "updated_by": "ndamours14",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "f61ed028-ce52-43ba-87d0-a2c08525d0a8"
-  }
+  },
+  "parent": "92e229f1-00d5-4ac5-99e9-6d9d4a8c9e95"
 }
