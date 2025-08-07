@@ -33,7 +33,14 @@
           "bold": true
         },
         {
-          "text": " of this part. This recording, along with additional metadata, "
+          "text": " of this part. Part I can be found "
+        },
+        {
+          "text": "here",
+          "link": "https://ndamours14.github.io/360resounding/events/the-bards-of-march-at-university-of-albert--3/"
+        },
+        {
+          "text": ". This recording, along with additional metadata, "
         },
         {
           "text": "can be found here via the University of Alberta",
@@ -49,7 +56,7 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "The Bards of March at University of Alberta, 1986 Part II",
-  "updated_at": "2025-08-07T16:15:50.356Z",
+  "updated_at": "2025-08-07T16:30:28.113Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "aaa517fb-949e-4998-b4d5-04697aa3f0da"
