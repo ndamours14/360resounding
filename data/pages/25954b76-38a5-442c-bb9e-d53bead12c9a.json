@@ -53,19 +53,21 @@
           "italic": true
         },
         {
-          "text": ". For four days, poets and professors, archivists and artists, librarians and researchers, and creatives of all stripes came together for a \"summer camp\" of immersive literary audio experiences. Information about the Institute and its schedule can be found "
+          "text": ". For four days, poets and professors, archivists and artists, librarians and researchers, and creatives of all stripes came together for a \"summer camp\" of immersive literary audio experiences. Information about the Institute and its schedule can be found"
         },
         {
           "type": "link",
           "url": "https://spokenweb.ca/institutes/#/re-sounding-poetries-collections-classrooms-communities",
           "children": [
             {
-              "text": "here"
+              "text": "here.",
+              "link": "https://spokenweb.ca/institutes/#/re-sounding-poetries-collections-classrooms-communities"
             }
           ]
         },
         {
-          "text": "."
+          "text": "",
+          "link": "https://spokenweb.ca/institutes/#/re-sounding-poetries-collections-classrooms-communities"
         }
       ]
     },
@@ -303,6 +305,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-07T16:23:37.529Z",
+  "updated_at": "2025-08-07T16:34:06.413Z",
   "updated_by": "ndamours14"
 }
