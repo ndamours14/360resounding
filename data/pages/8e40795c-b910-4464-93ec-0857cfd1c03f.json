@@ -34,7 +34,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<img width=\"2000\" height=\"1545\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2a8d9387-cb2e-43ce-aceb-6f7c9f79d9d2\" />"
+          "text": "<img width=\"2000\" height=\"1545\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2a8d9387-cb2e-43ce-aceb-6f7c9f79d9d2\" />",
+          "code": true
         }
       ]
     },
@@ -42,7 +43,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "code": true
         }
       ]
     },
@@ -50,7 +52,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<img width=\"2000\" height=\"1545\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6bf7144f-276a-42b5-b8cb-c0385b2916db\" />"
+          "text": "<img width=\"2000\" height=\"1545\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6bf7144f-276a-42b5-b8cb-c0385b2916db\" />",
+          "code": true
         }
       ]
     }
@@ -64,6 +67,6 @@
   "slug": "spokenweb-virtual-audio-experience",
   "created_at": "2025-08-07T16:53:38.948Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-07T17:00:17.210Z",
+  "updated_at": "2025-08-07T17:05:45.598Z",
   "updated_by": "ndamours14"
 }
