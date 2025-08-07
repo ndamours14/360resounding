@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This audio was originally recorded in 1974, at the University of Alberta, in the Humanities Center, room L-3. The segment of this recording found in the "
+          "text": "This audio was originally recorded in 1974, at the University of Alberta, in the Humanities Center, room L-3. The first segment of this recording found in the "
         },
         {
           "text": "SpokenWeb UAlberta in 360°",
@@ -33,6 +33,20 @@
           "bold": true
         },
         {
+          "text": "; the second segment begins at minute "
+        },
+        {
+          "text": "20:11",
+          "bold": true
+        },
+        {
+          "text": " and ends at "
+        },
+        {
+          "text": "20:56",
+          "bold": true
+        },
+        {
           "text": ". This recording, along with additional metadata, "
         },
         {
@@ -49,7 +63,7 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "Dorothy Livesay at University of Alberta, 1974",
-  "updated_at": "2025-08-07T15:54:24.753Z",
+  "updated_at": "2025-08-07T16:09:57.985Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "dbf148db-3bf4-4bca-928e-e10a42944f35"
