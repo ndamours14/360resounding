@@ -19,23 +19,21 @@
           "italic": true
         },
         {
-          "text": " video begins at minute 0:00 and ends at 1:34."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": " video begins at minute "
+        },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "0:00",
+          "bold": true
+        },
         {
-          "text": "This recording, along with additional metadata, "
+          "text": " and ends at "
+        },
+        {
+          "text": "1:34",
+          "bold": true
+        },
+        {
+          "text": ". This recording, along with additional metadata, "
         },
         {
           "text": "can be found here via the University of Alberta",
@@ -51,7 +49,7 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "Dorothy Livesay at University of Alberta, 1974",
-  "updated_at": "2025-08-07T15:51:34.111Z",
+  "updated_at": "2025-08-07T15:54:24.753Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "dbf148db-3bf4-4bca-928e-e10a42944f35"
