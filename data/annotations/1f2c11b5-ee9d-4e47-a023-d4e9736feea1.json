@@ -1,0 +1,469 @@
+{
+  "event_id": "17fc0a13-e63c-45ba-ad65-ea12923b4844",
+  "source_id": "8929c4ca-6128-4771-a2d0-7d579d4cc15f",
+  "set": "The Bards of March Part II Index [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 51,
+      "annotation": [
+        {
+          "text": "Shirley Neuman introduces Doug Barbour"
+        }
+      ],
+      "tags": [],
+      "uuid": "c68e6d58-05a3-4c0f-ae3c-a40906bf329c"
+    },
+    {
+      "start_time": 52,
+      "end_time": 71,
+      "annotation": [
+        {
+          "text": "Doug Barbour introduces \"Alone on the Road\""
+        }
+      ],
+      "tags": [],
+      "uuid": "199d6d36-33f8-49ee-a194-ace24e60621a"
+    },
+    {
+      "start_time": 72,
+      "end_time": 223,
+      "annotation": [
+        {
+          "text": "Doug Barbour performs \"Alone on the Road\""
+        }
+      ],
+      "tags": [],
+      "uuid": "7c88c48c-195b-44e1-9d82-0e01718f93a9"
+    },
+    {
+      "start_time": 224,
+      "end_time": 240,
+      "annotation": [
+        {
+          "text": "Doug Barbour introduces \"That Gone Tune\""
+        }
+      ],
+      "tags": [],
+      "uuid": "f98ebff0-18d6-400c-8eae-a70e666e02e1"
+    },
+    {
+      "start_time": 241,
+      "end_time": 528,
+      "annotation": [
+        {
+          "text": "Doug Barbour performs \"That Gone Tune\""
+        }
+      ],
+      "tags": [],
+      "uuid": "81d3ad8f-236c-41ad-bce4-1a857bdbb8e4"
+    },
+    {
+      "start_time": 529,
+      "end_time": 563,
+      "annotation": [
+        {
+          "text": "Doug Barbour introduces \"for 'Branch of almond tree in bloom (1819)'\""
+        }
+      ],
+      "tags": [],
+      "uuid": "6fa97d01-87f2-4214-be2b-530f075b494d"
+    },
+    {
+      "start_time": 564,
+      "end_time": 609,
+      "annotation": [
+        {
+          "text": "Doug Barbour performs \"for 'Branch of almond tree in bloom (1819)'\""
+        }
+      ],
+      "tags": [],
+      "uuid": "db8e9775-5450-4f6d-86e2-9bfc588a9817"
+    },
+    {
+      "start_time": 610,
+      "end_time": 635,
+      "annotation": [
+        {
+          "text": "Doug Barbour introduces \"breath ghazal\""
+        }
+      ],
+      "tags": [],
+      "uuid": "7cf0f2a4-e72c-4fde-9a90-9ba648222162"
+    },
+    {
+      "start_time": 636,
+      "end_time": 689,
+      "annotation": [
+        {
+          "text": "Doug Barbour performs \"breath ghazal\""
+        }
+      ],
+      "tags": [],
+      "uuid": "9a33dcf1-4ba4-418b-8607-267d0207cbd0"
+    },
+    {
+      "start_time": 690,
+      "end_time": 703,
+      "annotation": [
+        {
+          "text": "Shirley Neuman addresses the audience"
+        }
+      ],
+      "tags": [],
+      "uuid": "b42516f5-c1e9-40fd-850c-31c1347aad40"
+    },
+    {
+      "start_time": 704,
+      "end_time": 735,
+      "annotation": [
+        {
+          "text": "George Melnyk introduces Jack Lewis"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc81aea0-e64e-4ca0-a7d6-0817454fa7a1"
+    },
+    {
+      "start_time": 736,
+      "end_time": 783,
+      "annotation": [
+        {
+          "text": "Jack Lewis announces the winner of the first raffle"
+        }
+      ],
+      "tags": [],
+      "uuid": "0cf38173-a844-42ff-bff3-4175a1018446"
+    },
+    {
+      "start_time": 784,
+      "end_time": 802,
+      "annotation": [
+        {
+          "text": "Esther Chrysel accepts the prize"
+        }
+      ],
+      "tags": [],
+      "uuid": "208ba5d4-3e42-40f5-9b4b-e270444f5c09"
+    },
+    {
+      "start_time": 803,
+      "end_time": 852,
+      "annotation": [
+        {
+          "text": "George Melnyk introduces Rudy Wiebe"
+        }
+      ],
+      "tags": [],
+      "uuid": "caa55a47-266a-4cdb-858d-01b85a51b77b"
+    },
+    {
+      "start_time": 853,
+      "end_time": 892,
+      "annotation": [
+        {
+          "text": "Rudy Wiebe announces the winner of the second raffle"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b8e7557-b373-4441-a602-203183b52ecd"
+    },
+    {
+      "start_time": 893,
+      "end_time": 908,
+      "annotation": [
+        {
+          "text": "Rob Carol accepts the prize"
+        }
+      ],
+      "tags": [],
+      "uuid": "e418cc48-e692-4ac4-853d-3bb5f50fc2a2"
+    },
+    {
+      "start_time": 909,
+      "end_time": 983,
+      "annotation": [
+        {
+          "text": "George Melnyk announces the winner of the third raffle"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ac1daf1-f289-4c3f-8a09-c58e7a1c8d8d"
+    },
+    {
+      "start_time": 984,
+      "end_time": 990,
+      "annotation": [
+        {
+          "text": "Riela Carson accepts the prize"
+        }
+      ],
+      "tags": [],
+      "uuid": "c49eb2a2-a07d-4cc5-986b-8989ea7dc1b8"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1073,
+      "annotation": [
+        {
+          "text": "Unknown speaker discusses the prize won by Riela Carson"
+        }
+      ],
+      "tags": [],
+      "uuid": "48367f06-967c-4944-a20f-fb325e9da139"
+    },
+    {
+      "start_time": 1074,
+      "end_time": 1236,
+      "annotation": [
+        {
+          "text": "Shirley Neuman introduces Robert Kroetsch and bpNichol"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0e70b94-5413-443c-89a4-b4237b2c7c14"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1272,
+      "annotation": [
+        {
+          "text": "bpNichol introduces \"Advice to My Friends\" from Advice to My Friends by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f624ba4-77e9-4513-aebb-33c1ec42b5d6"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"Advice to My Friends\" from Advice to My Friend by Robert Kroetsch (in two sections)"
+        }
+      ],
+      "tags": [],
+      "uuid": "e6c59c38-f125-42e6-867c-6837afdf556f"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "text": "bpNichol introduces \"14. I find myself reading the old guys now: December 6th, 1983\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e854a74-b695-4bbb-9da0-4bed4bdf1f95"
+    },
+    {
+      "start_time": 1348,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"14. I find myself reading the old guys now: December 6th, 1983\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "0fc01163-da11-4f3f-ae87-9c8905b9b421"
+    },
+    {
+      "start_time": 1401,
+      "end_time": 1416,
+      "annotation": [
+        {
+          "text": "bpNichol introduces \"Sounding the Name\" from Advice to My Friends by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "114f3bcc-0a65-4bec-93a8-fb5bfb0a9498"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"Sounding the Name\" from Advice to My Friend by Robert Koretsch (in four sections)"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5c256bb-7b15-405e-a8b8-d79566e72f07"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"I'm getting old now\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "de10f3af-15bf-44e8-99e1-93614fafc113"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"Sonnet #5\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "d1501f84-0a0c-4405-8b68-1ff2bd8ed1fe"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"Sonnet For My Daughters\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2198388-3d99-4b2f-af2e-fc53f5f7a9ed"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1617,
+      "annotation": [
+        {
+          "text": "bpNichol introduces \"The Poet's Mother\" from Advice to My Friends by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c211cd1-8457-47f1-a313-e5a2b6f3ba46"
+    },
+    {
+      "start_time": 1618,
+      "end_time": 1651,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"The Poet's Mother\" from Advice to My Friends by Robert Kroetsch (in three sections)"
+        }
+      ],
+      "tags": [],
+      "uuid": "a3d80a69-1ad9-4326-918e-9a264441b388"
+    },
+    {
+      "start_time": 1652,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"3\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "55234daa-06a4-41ee-97f5-c9b59670f92b"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1691,
+      "annotation": [
+        {
+          "text": "bpNichol introduces \"envoi (to begin with)\" by Robert Kroetsch"
+        }
+      ],
+      "tags": [],
+      "uuid": "f0b392db-be56-4595-9869-132f992aadde"
+    },
+    {
+      "start_time": 1692,
+      "end_time": 1723,
+      "annotation": [
+        {
+          "text": "bpNichol performs \"envoi (to begin with)\""
+        }
+      ],
+      "tags": [],
+      "uuid": "54e9723c-ca4f-4880-80cf-d4ec2f2ca888"
+    },
+    {
+      "start_time": 1724,
+      "end_time": 1859,
+      "annotation": [
+        {
+          "text": "Shirley Neuman introduces Aretha van Herk"
+        }
+      ],
+      "tags": [],
+      "uuid": "5287f071-2f1c-43a5-8570-7b7fd22eae67"
+    },
+    {
+      "start_time": 1860,
+      "end_time": 1927,
+      "annotation": [
+        {
+          "text": "Aretha van Herk introduces No Fixed Address: An Amorous Journey"
+        }
+      ],
+      "tags": [],
+      "uuid": "d80a1b4e-71ea-4401-84eb-e95c56213552"
+    },
+    {
+      "start_time": 1928,
+      "end_time": 2740,
+      "annotation": [
+        {
+          "text": "Aretha van Herk performs No Fixed Address: An Amorous Journey"
+        }
+      ],
+      "tags": [],
+      "uuid": "35db3651-eec9-40a2-91f5-1411b57693d7"
+    },
+    {
+      "start_time": 2741,
+      "end_time": 2933,
+      "annotation": [
+        {
+          "text": "Shirley Neuman introduces Rudy Wiebe"
+        }
+      ],
+      "tags": [],
+      "uuid": "16d9b3a2-a50b-4236-a97e-b1ec96ea14e3"
+    },
+    {
+      "start_time": 2934,
+      "end_time": 2977,
+      "annotation": [
+        {
+          "text": "Rudy Wiebe introduces The Temptation of Big Bear"
+        }
+      ],
+      "tags": [],
+      "uuid": "de104ae4-2b98-489f-b62c-686b1bd6efa6"
+    },
+    {
+      "start_time": 2978,
+      "end_time": 3572,
+      "annotation": [
+        {
+          "text": "Rudy Wiebe performs The Temptation of Big Bear"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d03fdfc-280c-41fb-b7fc-d7de9c886a55"
+    },
+    {
+      "start_time": 3573,
+      "end_time": 3650,
+      "annotation": [
+        {
+          "text": "Shirley Neuman offers Closing Remarks"
+        }
+      ],
+      "tags": [],
+      "uuid": "dffa6556-67ab-4dd3-b535-4cad05aba890"
+    },
+    {
+      "start_time": 3651,
+      "end_time": 3670,
+      "annotation": [
+        {
+          "text": "Applause"
+        }
+      ],
+      "tags": [],
+      "uuid": "18925ec0-f17e-4f19-bea1-21081e6a5955"
+    }
+  ]
+}

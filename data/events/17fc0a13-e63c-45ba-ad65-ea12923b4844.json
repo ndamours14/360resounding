@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "8929c4ca-6128-4771-a2d0-7d579d4cc15f": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/173/836/original/SW079-a-b-cleaned-merged.wav?1673973068",
+      "duration": 4926.01498
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-07T15:32:48.974Z",
+  "created_by": "ndamours14",
+  "item_type": "Audio",
+  "label": "The Bards of March at University of Alberta, 1986 Part I and Part II",
+  "updated_at": "2025-08-07T15:32:48.974Z",
+  "updated_by": "ndamours14"
+}
