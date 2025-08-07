@@ -12,7 +12,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This audio was originally recorded in 1986, at the Northern Alberta Jubilee Auditorium. The segment of this recording found in the "
+        },
+        {
+          "text": "SpokenWeb UAlberta in 360°",
+          "italic": true
+        },
+        {
+          "text": " video begins at minute "
+        },
+        {
+          "text": "0:37",
+          "bold": true
+        },
+        {
+          "text": " and ends at "
+        },
+        {
+          "text": "1:34",
+          "bold": true
+        },
+        {
+          "text": " of this Part II. This recording, along with additional metadata, "
+        },
+        {
+          "text": "can be found here via the University of Alberta",
+          "link": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/85597"
+        },
+        {
+          "text": "."
         }
       ]
     }
@@ -21,9 +49,10 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "The Bards of March at University of Alberta, 1986 Part II",
-  "updated_at": "2025-08-07T15:35:57.821Z",
+  "updated_at": "2025-08-07T16:08:56.772Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "aaa517fb-949e-4998-b4d5-04697aa3f0da"
-  ]
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
