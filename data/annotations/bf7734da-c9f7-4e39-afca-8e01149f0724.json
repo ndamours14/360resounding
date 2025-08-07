@@ -1,0 +1,931 @@
+{
+  "event_id": "f61ed028-ce52-43ba-87d0-a2c08525d0a8",
+  "source_id": "7d968357-8775-4f6e-a797-56edf34128ea",
+  "set": "Poet and Critic: Plenary Reading [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 72,
+      "annotation": [
+        {
+          "text": "Livesay introduces herself and \"Aliens All\""
+        }
+      ],
+      "tags": [],
+      "uuid": "ec3ea670-e5ed-46e2-bf7c-1c383d48db6e"
+    },
+    {
+      "start_time": 72,
+      "end_time": 145,
+      "annotation": [
+        {
+          "text": "Livesay performs \"Aliens All\""
+        }
+      ],
+      "tags": [],
+      "uuid": "bfa5771e-45e7-42dc-9393-183428217e97"
+    },
+    {
+      "start_time": 145,
+      "end_time": 154,
+      "annotation": [
+        {
+          "text": "Livesay introduces \"No Exit\""
+        }
+      ],
+      "tags": [],
+      "uuid": "58410b80-9a25-4aff-9a1d-85d0d8936b12"
+    },
+    {
+      "start_time": 154,
+      "end_time": 208,
+      "annotation": [
+        {
+          "text": "Livesay performs \"No Exit\""
+        }
+      ],
+      "tags": [],
+      "uuid": "25cc07c1-a460-4e6b-868a-5c7d9c320f1b"
+    },
+    {
+      "start_time": 208,
+      "end_time": 245,
+      "annotation": [
+        {
+          "text": "Livesay introduces Stephen Scobie"
+        }
+      ],
+      "tags": [],
+      "uuid": "9dae2f3a-de43-442f-9a17-b79afb716764"
+    },
+    {
+      "start_time": 245,
+      "end_time": 308,
+      "annotation": [
+        {
+          "text": "Scobie introduces himself and \"The Wanderer\""
+        }
+      ],
+      "tags": [],
+      "uuid": "20d86a40-3c61-408e-9f37-746378bfaba7"
+    },
+    {
+      "start_time": 308,
+      "end_time": 350,
+      "annotation": [
+        {
+          "text": "Scobie performs \"The Wanderer\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8004834d-09af-43e7-82ce-65e466de7051"
+    },
+    {
+      "start_time": 350,
+      "end_time": 357,
+      "annotation": [
+        {
+          "text": "Scobie introduces \"Songs are Uneasy Company\""
+        }
+      ],
+      "tags": [],
+      "uuid": "65d74a34-1e40-482b-83fb-cba0be4dc19c"
+    },
+    {
+      "start_time": 357,
+      "end_time": 420,
+      "annotation": [
+        {
+          "text": "Scobie performs \"Songs are Uneasy Company\""
+        }
+      ],
+      "tags": [],
+      "uuid": "32ab3f05-61ac-4c7d-9771-339f7fd4779a"
+    },
+    {
+      "start_time": 420,
+      "end_time": 440,
+      "annotation": [
+        {
+          "text": "Ambient sound: crowd noise"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ccdd55a-7dee-4e0e-a428-ee5d5d72ec4c"
+    },
+    {
+      "start_time": 440,
+      "end_time": 555,
+      "annotation": [
+        {
+          "text": "Unidentified Host introduces the remaining poets and Lionel Kearns"
+        }
+      ],
+      "tags": [],
+      "uuid": "bbfd3e5f-1e0d-4936-9ffc-1fa31d8a3855"
+    },
+    {
+      "start_time": 555,
+      "end_time": 630,
+      "annotation": [
+        {
+          "text": "Ambient sound: more crowd noise"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a16453c-f45d-4352-9865-c12d62128d81"
+    },
+    {
+      "start_time": 630,
+      "end_time": 648,
+      "annotation": [
+        {
+          "text": "Kearns introduces \"Environment\""
+        }
+      ],
+      "tags": [],
+      "uuid": "5f5dd2a3-ac28-4f52-88c8-ff61c15b225d"
+    },
+    {
+      "start_time": 648,
+      "end_time": 764,
+      "annotation": [
+        {
+          "text": "Kearns performs \"Environment\""
+        }
+      ],
+      "tags": [],
+      "uuid": "70f63699-b789-4190-beb5-28b17d43e911"
+    },
+    {
+      "start_time": 764,
+      "end_time": 790,
+      "annotation": [
+        {
+          "text": "Kearns introduces \"Telephone\""
+        }
+      ],
+      "tags": [],
+      "uuid": "df610844-d3f9-401c-b53c-d968a31a122d"
+    },
+    {
+      "start_time": 790,
+      "end_time": 1030,
+      "annotation": [
+        {
+          "text": "Kearns performs \"Telephone\""
+        }
+      ],
+      "tags": [],
+      "uuid": "60117f76-7347-4770-bbc0-d1d861fa4697"
+    },
+    {
+      "start_time": 1030,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "text": "Kearns introduces \"Transport\""
+        }
+      ],
+      "tags": [],
+      "uuid": "d68f3777-b055-4bc3-adcc-e33171f09626"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "text": "Kearns performs \"Transport\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8e88ffc6-a9c9-4c0d-8a20-92c0c62b6c9b"
+    },
+    {
+      "start_time": 1248,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "text": "Unidentified Host introduces Earle Birney"
+        }
+      ],
+      "tags": [],
+      "uuid": "01b9ebac-c148-4b7b-9347-4126cf0b4f4d"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "text": "Birney introduces himself"
+        }
+      ],
+      "tags": [],
+      "uuid": "71a9bb0c-4806-4cf3-a2b0-052f9ca565a0"
+    },
+    {
+      "start_time": 1552,
+      "end_time": 1609,
+      "annotation": [
+        {
+          "text": "Birney performs his translation of \"While I Am Drinking a Cup of Coffee\" by Oscar Oliva"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5f9440d-61ea-4850-aa61-a7c54f0ec7df"
+    },
+    {
+      "start_time": 1609,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "text": "Birney introduces \"First Peek of Frost\""
+        }
+      ],
+      "tags": [],
+      "uuid": "610d3387-63d6-45ad-ae3e-21a436122715"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1703,
+      "annotation": [
+        {
+          "text": "Birney performs \"First Peek of Frost\""
+        }
+      ],
+      "tags": [],
+      "uuid": "3fd2f466-ee35-4bfe-ac25-670056eb5907"
+    },
+    {
+      "start_time": 1703,
+      "end_time": 1787,
+      "annotation": [
+        {
+          "text": "Birney introduces \"John Cabot\""
+        }
+      ],
+      "tags": [],
+      "uuid": "fcfbd522-d787-40fa-8d24-08ecbaa4db6f"
+    },
+    {
+      "start_time": 1787,
+      "end_time": 1832,
+      "annotation": [
+        {
+          "text": "Birney performs \"John Cabot\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8bb81abf-9ff2-4a29-b56c-ee1bc4dead5b"
+    },
+    {
+      "start_time": 1832,
+      "end_time": 1837,
+      "annotation": [
+        {
+          "text": "Birney introduces \"Our Forefathers Literary\""
+        }
+      ],
+      "tags": [],
+      "uuid": "f9c08f72-28c0-4b1d-8f59-c186c5a54b26"
+    },
+    {
+      "start_time": 1837,
+      "end_time": 1895,
+      "annotation": [
+        {
+          "text": "Birney performs \"Our Forefathers Literary\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c71fb531-d946-4fea-84bc-ce98cdebd7c7"
+    },
+    {
+      "start_time": 1895,
+      "end_time": 1925,
+      "annotation": [
+        {
+          "text": "Birney introduces \"Window Seat\""
+        }
+      ],
+      "tags": [],
+      "uuid": "74d7cc5b-076f-4894-a45f-584c3005fc0a"
+    },
+    {
+      "start_time": 1925,
+      "end_time": 2012,
+      "annotation": [
+        {
+          "text": "Birney performs \"Window Seat\""
+        }
+      ],
+      "tags": [],
+      "uuid": "5edd3a20-706e-49d9-800b-2492135f48d3"
+    },
+    {
+      "start_time": 2012,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "text": "Birney introduces \"There Are Delicacies\""
+        }
+      ],
+      "tags": [],
+      "uuid": "2c6adb63-f55b-4190-890c-7dda8370aff2"
+    },
+    {
+      "start_time": 2085,
+      "end_time": 2168,
+      "annotation": [
+        {
+          "text": "Birney performs \"There Are Delicacies\""
+        }
+      ],
+      "tags": [],
+      "uuid": "6c3725bc-02bb-46be-8139-4e107d487a33"
+    },
+    {
+      "start_time": 2168,
+      "end_time": 2189,
+      "annotation": [
+        {
+          "text": "Birney introduces \"Found Swahili Serenade\""
+        }
+      ],
+      "tags": [],
+      "uuid": "6748f55e-57dd-4f93-ad87-e16937dd4777"
+    },
+    {
+      "start_time": 2189,
+      "end_time": 2224,
+      "annotation": [
+        {
+          "text": "Birney performs \"Found Swahili Serenade\""
+        }
+      ],
+      "tags": [],
+      "uuid": "40128724-4254-4760-8e4c-ed7ac8f8a44a"
+    },
+    {
+      "start_time": 2224,
+      "end_time": 2257,
+      "annotation": [
+        {
+          "text": "Birney performs \"Found Blues\""
+        }
+      ],
+      "tags": [],
+      "uuid": "3da90b46-9d55-458e-a661-d556931dc139"
+    },
+    {
+      "start_time": 2257,
+      "end_time": 2335,
+      "annotation": [
+        {
+          "text": "Birney performs \"From the Hazel Bough\""
+        }
+      ],
+      "tags": [],
+      "uuid": "37efafcb-220c-4211-9665-5961c74267a7"
+    },
+    {
+      "start_time": 2335,
+      "end_time": 2422,
+      "annotation": [
+        {
+          "text": "Birney discusses George Bowering and introduces \"Imageorge\""
+        }
+      ],
+      "tags": [],
+      "uuid": "375ef1f3-4957-4129-94a2-f05c4f6ee681"
+    },
+    {
+      "start_time": 2422,
+      "end_time": 2526,
+      "annotation": [
+        {
+          "text": "Birney performs \"Imageorge\""
+        }
+      ],
+      "tags": [],
+      "uuid": "09f76bf7-91ca-47b5-8175-3f29c03afdf2"
+    },
+    {
+      "start_time": 2526,
+      "end_time": 2561,
+      "annotation": [
+        {
+          "text": "Birney introduces \"For Maistre Geoffrey\""
+        }
+      ],
+      "tags": [],
+      "uuid": "a54ff3ab-8560-42dc-8b25-b878495e48c1"
+    },
+    {
+      "start_time": 2561,
+      "end_time": 2662,
+      "annotation": [
+        {
+          "text": "Birney performs \"For Maistre Geoffrey\""
+        }
+      ],
+      "tags": [],
+      "uuid": "50cf13d6-b8a7-48c6-a695-91eb882b7e34"
+    },
+    {
+      "start_time": 2662,
+      "end_time": 2730,
+      "annotation": [
+        {
+          "text": "Birney performs \"Song for Sunsets\""
+        }
+      ],
+      "tags": [],
+      "uuid": "4cf44435-b932-4e88-86b0-d62d0fc00437"
+    },
+    {
+      "start_time": 2730,
+      "end_time": 2853,
+      "annotation": [
+        {
+          "text": "Birney performs \"Bushed\""
+        }
+      ],
+      "tags": [],
+      "uuid": "efc83286-5666-4bb9-8720-4ae8d8caf314"
+    },
+    {
+      "start_time": 2853,
+      "end_time": 2920,
+      "annotation": [
+        {
+          "text": "Birney performs \"Wind-Chimes in a Temple Ruin\""
+        }
+      ],
+      "tags": [],
+      "uuid": "bd1b5ea7-4107-44cd-8b79-2c0e64c021cb"
+    },
+    {
+      "start_time": 2920,
+      "end_time": 3082,
+      "annotation": [
+        {
+          "text": "Birney introduces \"Toronto Board of Trade Goes Abroad\""
+        }
+      ],
+      "tags": [],
+      "uuid": "4eee7a27-dc00-4e1b-a5bc-fd94ffa11538"
+    },
+    {
+      "start_time": 3082,
+      "end_time": 3245,
+      "annotation": [
+        {
+          "text": "Birney performs \"Toronto Board of Trade Goes Abroad\""
+        }
+      ],
+      "tags": [],
+      "uuid": "744261fb-c605-4379-9f51-1a582ad02800"
+    },
+    {
+      "start_time": 3245,
+      "end_time": 3289,
+      "annotation": [
+        {
+          "text": "Unidentified Host introduces Elizabeth Brewster"
+        }
+      ],
+      "tags": [],
+      "uuid": "09375c99-2ac4-463c-8af9-964065c40546"
+    },
+    {
+      "start_time": 3289,
+      "end_time": 3335,
+      "annotation": [
+        {
+          "text": "Brewster introduces herself"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b471ae9-cc28-418a-8344-150200099fa5"
+    },
+    {
+      "start_time": 3335,
+      "end_time": 3432,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Past as Present\""
+        }
+      ],
+      "tags": [],
+      "uuid": "4fb9f138-2617-4dfa-b4ee-3685c9d669c7"
+    },
+    {
+      "start_time": 3432,
+      "end_time": 3447,
+      "annotation": [
+        {
+          "text": "Brewster introduces \"Orange Rooster\""
+        }
+      ],
+      "tags": [],
+      "uuid": "78fa48ac-7d41-4b37-a5b1-874e25f3eb8c"
+    },
+    {
+      "start_time": 3447,
+      "end_time": 3483,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Orange Rooster\""
+        }
+      ],
+      "tags": [],
+      "uuid": "07d847af-54d3-4d24-b98b-aab5c0852b8a"
+    },
+    {
+      "start_time": 3483,
+      "end_time": 3532,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Sunflowers\""
+        }
+      ],
+      "tags": [],
+      "uuid": "41482aab-3bbf-4060-a93f-6fe139949ed7"
+    },
+    {
+      "start_time": 3532,
+      "end_time": 3601,
+      "annotation": [
+        {
+          "text": "Brewster performs \"In the Venus Restaurant\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8d7fcfe7-c229-461c-915e-a69192abb44c"
+    },
+    {
+      "start_time": 3601,
+      "end_time": 3627,
+      "annotation": [
+        {
+          "text": "Brewster introduces \"Dream\""
+        }
+      ],
+      "tags": [],
+      "uuid": "07d6bc00-5020-4fdc-9972-5fd5f7a810db"
+    },
+    {
+      "start_time": 3627,
+      "end_time": 3665,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Dream\""
+        }
+      ],
+      "tags": [],
+      "uuid": "f2084e0e-eaee-49c0-94d0-813096500af7"
+    },
+    {
+      "start_time": 3665,
+      "end_time": 3705,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Adrift\""
+        }
+      ],
+      "tags": [],
+      "uuid": "50c3cfba-ae79-44b1-81c5-371fa1a18ac2"
+    },
+    {
+      "start_time": 3705,
+      "end_time": 3728,
+      "annotation": [
+        {
+          "text": "Brewster introduces \"Jamie\""
+        }
+      ],
+      "tags": [],
+      "uuid": "9f936322-c795-4457-a73e-13398a053fd7"
+    },
+    {
+      "start_time": 3728,
+      "end_time": 3828,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Jamie\""
+        }
+      ],
+      "tags": [],
+      "uuid": "3887b4c6-e19e-4fde-9aaa-35113d0d7ca5"
+    },
+    {
+      "start_time": 3828,
+      "end_time": 3936,
+      "annotation": [
+        {
+          "text": "Brewster performs \"A Narrative of Singular Imposition\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c96357f5-4163-41f1-907e-d0ba5603bc83"
+    },
+    {
+      "start_time": 3936,
+      "end_time": 4015,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Death\""
+        }
+      ],
+      "tags": [],
+      "uuid": "46b8c698-850f-4e68-a9c1-d50f3f0c7737"
+    },
+    {
+      "start_time": 4015,
+      "end_time": 4060,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Acting in the Snow\""
+        }
+      ],
+      "tags": [],
+      "uuid": "6e985f2a-3205-4a74-8364-2c7e1d748973"
+    },
+    {
+      "start_time": 4060,
+      "end_time": 4075,
+      "annotation": [
+        {
+          "text": "Brewster introduces \"Sunday Morning\""
+        }
+      ],
+      "tags": [],
+      "uuid": "fad05826-ab28-4f9c-b4b8-81b899b418d1"
+    },
+    {
+      "start_time": 4075,
+      "end_time": 4140,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Sunday Morning\""
+        }
+      ],
+      "tags": [],
+      "uuid": "49e95c99-78d6-48e1-ac80-be46cdc2cfd1"
+    },
+    {
+      "start_time": 4140,
+      "end_time": 4151,
+      "annotation": [
+        {
+          "text": "Brewster introduces \"Thirty Below\""
+        }
+      ],
+      "tags": [],
+      "uuid": "09c61120-1d7e-4184-8ece-d08235a91522"
+    },
+    {
+      "start_time": 4151,
+      "end_time": 4197,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Thirty Below\""
+        }
+      ],
+      "tags": [],
+      "uuid": "fa9152cf-a532-4dcb-95eb-6a7fe77d9e13"
+    },
+    {
+      "start_time": 4197,
+      "end_time": 4230,
+      "annotation": [
+        {
+          "text": "Brewster introduces \"Tea-Leaf Reading\""
+        }
+      ],
+      "tags": [],
+      "uuid": "20cc8508-b22f-4e91-b8ad-05d16aecaa31"
+    },
+    {
+      "start_time": 4230,
+      "end_time": 4327,
+      "annotation": [
+        {
+          "text": "Brewster performs \"Tea-Leaf Reading\""
+        }
+      ],
+      "tags": [],
+      "uuid": "7dda2359-6489-4c69-9683-97819134cc19"
+    },
+    {
+      "start_time": 4327,
+      "end_time": 4399,
+      "annotation": [
+        {
+          "text": "Unidentified Host introduces Doug Jones"
+        }
+      ],
+      "tags": [],
+      "uuid": "56e32141-2017-4f55-aa5e-ba9ca5354e72"
+    },
+    {
+      "start_time": 4399,
+      "end_time": 4524,
+      "annotation": [
+        {
+          "text": "Jones introduces himself and \"October 24, 1962\""
+        }
+      ],
+      "tags": [],
+      "uuid": "09ae238b-9d51-41b6-88c9-4eda19973226"
+    },
+    {
+      "start_time": 4524,
+      "end_time": 4579,
+      "annotation": [
+        {
+          "text": "Jones performs \"October 24, 1962\""
+        }
+      ],
+      "tags": [],
+      "uuid": "1f52fbc9-199a-4ae3-a698-0aac28f2bd93"
+    },
+    {
+      "start_time": 4579,
+      "end_time": 4690,
+      "annotation": [
+        {
+          "text": "Jones performs \"The Perishing Bird\""
+        }
+      ],
+      "tags": [],
+      "uuid": "313313ac-6efa-4076-91e5-31f511cb28da"
+    },
+    {
+      "start_time": 4690,
+      "end_time": 4822,
+      "annotation": [
+        {
+          "text": "Jones introduces \"De Profundis Conjugii Vox et Responsum\""
+        }
+      ],
+      "tags": [],
+      "uuid": "059f9fda-7a5b-4e3b-b745-20658b0cb1ea"
+    },
+    {
+      "start_time": 4822,
+      "end_time": 5143,
+      "annotation": [
+        {
+          "text": "Jones performs \"De Profundis Conjugii Vox et Responsum\""
+        }
+      ],
+      "tags": [],
+      "uuid": "fc7588fc-47e4-4d18-93ca-073f2de6216e"
+    },
+    {
+      "start_time": 5143,
+      "end_time": 5168,
+      "annotation": [
+        {
+          "text": "Jones introduces \"View from My Window\""
+        }
+      ],
+      "tags": [],
+      "uuid": "aeaa1bad-fb55-41d6-927a-b35a377cf002"
+    },
+    {
+      "start_time": 5168,
+      "end_time": 5191,
+      "annotation": [
+        {
+          "text": "Jones performs \"View from My Window\""
+        }
+      ],
+      "tags": [],
+      "uuid": "90db681b-48f8-4038-a573-03ca9ad43938"
+    },
+    {
+      "start_time": 5191,
+      "end_time": 5207,
+      "annotation": [
+        {
+          "text": "Jones introduces \"The Picture of Your House\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c20854b5-21ac-456a-b46c-3f113eb3ca44"
+    },
+    {
+      "start_time": 5207,
+      "end_time": 5288,
+      "annotation": [
+        {
+          "text": "Jones performs \"The Picture of Your House\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8c8edbf2-71b1-45dd-bbca-971bf232d8e9"
+    },
+    {
+      "start_time": 5288,
+      "end_time": 5392,
+      "annotation": [
+        {
+          "text": "Jones introduces \"Backup Orchard, 1963?\""
+        }
+      ],
+      "tags": [],
+      "uuid": "e84039a1-124e-42ae-880c-ac27fffdc1d4"
+    },
+    {
+      "start_time": 5392,
+      "end_time": 5446,
+      "annotation": [
+        {
+          "text": "Jones performs (Title Unknown)"
+        }
+      ],
+      "tags": [],
+      "uuid": "752ab3b6-9d42-471e-9a1d-e6056ea87995"
+    },
+    {
+      "start_time": 5446,
+      "end_time": 5482,
+      "annotation": [
+        {
+          "text": "Jones introduces \"The Corn Stalks like Pale Choreiforms\""
+        }
+      ],
+      "tags": [],
+      "uuid": "a64c4a84-5ea4-4b38-b663-f7d3a918fb53"
+    },
+    {
+      "start_time": 5482,
+      "end_time": 5562,
+      "annotation": [
+        {
+          "text": "Jones performs \"The Corn Stalks like Pale Choreiforms\""
+        }
+      ],
+      "tags": [],
+      "uuid": "cfc837e8-edec-4457-9eb0-8fef13f739a4"
+    },
+    {
+      "start_time": 5562,
+      "end_time": 5601,
+      "annotation": [
+        {
+          "text": "Jones introduces \"The Stream Exposed with All Its Stones\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c8b76817-2e0a-4fa3-b19c-aa7d173c5e86"
+    },
+    {
+      "start_time": 5601,
+      "end_time": 5686,
+      "annotation": [
+        {
+          "text": "Jones performs \"The Stream Exposed with All Its Stones\""
+        }
+      ],
+      "tags": [],
+      "uuid": "76d1ce57-d921-4ad5-9482-f3f12bb07897"
+    },
+    {
+      "start_time": 5686,
+      "end_time": 5705,
+      "annotation": [
+        {
+          "text": "Unidentified Host introduces Peter Stevens"
+        }
+      ],
+      "tags": [],
+      "uuid": "32eadca7-fc53-4c0b-81b2-5ced32578084"
+    },
+    {
+      "start_time": 5705,
+      "end_time": 5742,
+      "annotation": [
+        {
+          "text": "Stevens introduces himself"
+        }
+      ],
+      "tags": [],
+      "uuid": "df3bd6e4-0c89-4f23-9344-6ac3607d3aed"
+    },
+    {
+      "start_time": 5742,
+      "end_time": 5790,
+      "annotation": [
+        {
+          "text": "Stevens performs \"Whiskers\""
+        }
+      ],
+      "tags": [],
+      "uuid": "e120efeb-a8f1-4861-92b7-b911c5c5697a"
+    }
+  ]
+}

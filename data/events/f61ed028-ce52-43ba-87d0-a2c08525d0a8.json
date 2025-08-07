@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "7d968357-8775-4f6e-a797-56edf34128ea": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/173/851/original/SW114-a-cleaned.wav?1673987540",
+      "duration": 5789.632
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-07T15:36:49.080Z",
+  "created_by": "ndamours14",
+  "item_type": "Audio",
+  "label": "Poet and Critic: Plenary Readings at Edmonton Art Gallery, 1969, Part I & Part II",
+  "updated_at": "2025-08-07T15:36:49.080Z",
+  "updated_by": "ndamours14"
+}
