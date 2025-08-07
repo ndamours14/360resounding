@@ -19,21 +19,7 @@
           "italic": true
         },
         {
-          "text": " video begins at minute "
-        },
-        {
-          "text": "0:37",
-          "bold": true
-        },
-        {
-          "text": " and ends at "
-        },
-        {
-          "text": "1:34",
-          "bold": true
-        },
-        {
-          "text": " of "
+          "text": " video can be found in "
         },
         {
           "text": "Part II",
@@ -56,7 +42,7 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "The Bards of March at University of Alberta, 1986 Part I",
-  "updated_at": "2025-08-07T16:07:13.834Z",
+  "updated_at": "2025-08-07T16:15:22.343Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "8929c4ca-6128-4771-a2d0-7d579d4cc15f"
