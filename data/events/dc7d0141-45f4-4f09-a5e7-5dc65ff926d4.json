@@ -12,7 +12,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This audio was originally recorded in 1971, at the University of Alberta, in the Students' Union Building (at the time, it was the Students' Union Building Art Gallery). The segment of this recording found in the "
+        },
+        {
+          "text": "SpokenWeb UAlberta in 360°",
+          "italic": true
+        },
+        {
+          "text": " video begins at minute "
+        },
+        {
+          "text": "1:35",
+          "bold": true
+        },
+        {
+          "text": " and ends at "
+        },
+        {
+          "text": "2:25",
+          "bold": true
+        },
+        {
+          "text": ". This recording, along with additional metadata and a Part II, "
+        },
+        {
+          "text": "can be found here via the University of Alberta",
+          "link": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59203"
+        },
+        {
+          "text": "."
         }
       ]
     }
@@ -21,6 +49,10 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "F.R. Scott, Stephen Scobie, and Dorothy Livesay at University of Alberta, 1971",
-  "updated_at": "2025-08-07T15:38:46.234Z",
-  "updated_by": "ndamours14"
+  "updated_at": "2025-08-07T15:59:41.010Z",
+  "updated_by": "ndamours14",
+  "av_file_order": [
+    "37fcf69f-2f12-44e2-a602-ddad0f7cb8c9"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
