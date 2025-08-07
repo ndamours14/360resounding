@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "dbf148db-3bf4-4bca-928e-e10a42944f35": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/068/original/SW010-a-cleaned.wav?1660731771",
+      "duration": 3876.52499
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-07T15:24:29.844Z",
+  "created_by": "ndamours14",
+  "item_type": "Audio",
+  "label": "Dorothy Livesay at University of Alberta, 1974",
+  "updated_at": "2025-08-07T15:24:29.844Z",
+  "updated_by": "ndamours14"
+}
