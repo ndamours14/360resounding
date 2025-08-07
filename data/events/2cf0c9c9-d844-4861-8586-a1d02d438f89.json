@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "6fec7d4a-d63e-4197-be25-c81856663132": {
+      "label": "AV File 2",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/175/284/original/SW007-b.wav?1677537868",
+      "duration": 2985.04964
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-07T15:38:46.245Z",
+  "created_by": "ndamours14",
+  "item_type": "Audio",
+  "label": "F.R. Scott, Stephen Scobie, and Dorothy Livesay at University of Alberta, 1971",
+  "updated_at": "2025-08-07T15:38:46.245Z",
+  "updated_by": "ndamours14"
+}
