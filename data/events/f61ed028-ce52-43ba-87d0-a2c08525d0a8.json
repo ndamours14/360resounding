@@ -12,7 +12,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This audio was originally recorded in 1969, at the Art Gallery of Alberta (at the time, it was the Edmonton Art Gallery). The segment of this recording found in the "
+        },
+        {
+          "text": "SpokenWeb UAlberta in 360°",
+          "italic": true
+        },
+        {
+          "text": " video begins at minute"
+        },
+        {
+          "text": " 0:13",
+          "bold": true
+        },
+        {
+          "text": " and ends at "
+        },
+        {
+          "text": "1:13",
+          "bold": true
+        },
+        {
+          "text": ". This recording, along with additional metadata and a Part II, "
+        },
+        {
+          "text": "can be found here via the University of Alberta",
+          "link": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/85606"
+        },
+        {
+          "text": "."
         }
       ]
     }
@@ -21,9 +49,10 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "Poet and Critic: Plenary Readings at Edmonton Art Gallery, 1969",
-  "updated_at": "2025-08-07T15:38:20.403Z",
+  "updated_at": "2025-08-07T16:01:40.151Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "7d968357-8775-4f6e-a797-56edf34128ea"
-  ]
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
