@@ -34,13 +34,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "<img width=\"2000\" height=\"1545\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2a8d9387-cb2e-43ce-aceb-6f7c9f79d9d2\" />"
         }
       ]
     },
     {
-      "type": "image",
-      "url": "https://drive.google.com/file/d/1jVt2JJnDlBNI2X19P3FpOMjqYrkVJc1p/view?usp=sharing",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -51,7 +50,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "<img width=\"2000\" height=\"1545\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6bf7144f-276a-42b5-b8cb-c0385b2916db\" />"
         }
       ]
     }
@@ -65,6 +64,6 @@
   "slug": "spokenweb-virtual-audio-experience",
   "created_at": "2025-08-07T16:53:38.948Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-07T16:55:49.873Z",
+  "updated_at": "2025-08-07T17:00:17.210Z",
   "updated_by": "ndamours14"
 }
