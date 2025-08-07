@@ -242,7 +242,41 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "As part of the "
+        },
+        {
+          "text": "SpokenWeb UAlberta in 360°",
+          "italic": true
+        },
+        {
+          "text": " project, Sarah Freeman created the "
+        },
+        {
+          "text": "SpokenWeb Virtual Audio Experience",
+          "italic": true
+        },
+        {
+          "text": " brochure, "
+        },
+        {
+          "text": "which can be viewed here.",
+          "link": "https://ndamours14.github.io/360resounding/pages/spokenweb-virtual-audio-experience/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -305,6 +339,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-07T16:34:06.413Z",
+  "updated_at": "2025-08-07T17:30:33.690Z",
   "updated_by": "ndamours14"
 }
