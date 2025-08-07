@@ -172,7 +172,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The full audio of each recording played in this video can be found at the URLs below:"
+          "text": "Listen to the full audio of each recording played in this video:"
         }
       ]
     },
@@ -183,11 +183,11 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Humanities Center L-3, Dorothy Livesay, 1974: "
+              "text": "Dorothy Livesay at University of Alberta, 1974",
+              "link": "https://ndamours14.github.io/360resounding/events/dorothy-livesay-at-university-of-alberta-197/"
             },
             {
-              "text": "tinyurl.com/Livesay1974",
-              "link": "https://tinyurl.com/Livesay1974"
+              "text": " (Humanities Center L-3)"
             }
           ]
         },
@@ -195,11 +195,11 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Students’ Union Building, Stephen Scobie, 1971: "
+              "text": "F.R. Scott, Stephen Scobie, and Dorothy Livesay at University of Alberta, 1971",
+              "link": "https://ndamours14.github.io/360resounding/events/fr-scott-stephen-scobie-and-dorothy-lives/"
             },
             {
-              "text": "tinyurl.com/Scobie1971",
-              "link": "https://tinyurl.com/Scobie1971"
+              "text": " (Students’ Union Building)"
             }
           ]
         },
@@ -207,11 +207,18 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Jubilee Auditorium, Shirley Neuman & Doug Barbour, 1986: "
+              "text": "The Bards of March at University of Alberta, 1986 Part I",
+              "link": "https://ndamours14.github.io/360resounding/events/the-bards-of-march-at-university-of-albert--3/"
             },
             {
-              "text": "tinyurl.com/Barbour1986",
-              "link": "https://tinyurl.com/Barbour1986"
+              "text": " and "
+            },
+            {
+              "text": "Part II",
+              "link": "https://ndamours14.github.io/360resounding/events/the-bards-of-march-at-university-of-alberta/"
+            },
+            {
+              "text": " (Northern Alberta Jubilee Auditorium)"
             }
           ]
         },
@@ -219,11 +226,11 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Art Gallery of Alberta, Dorothy Livesay, 1969: "
+              "text": "Poet and Critic: Plenary Readings at Edmonton Art Gallery, 1969",
+              "link": "https://ndamours14.github.io/360resounding/events/poet-and-critic-plenary-readings-at-edmonto-2/"
             },
             {
-              "text": "tinyurl.com/Livesay1969",
-              "link": "https://tinyurl.com/Livesay1969"
+              "text": " (Art Gallery of Alberta)"
             }
           ]
         }
@@ -296,6 +303,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-25T21:57:51.227Z",
+  "updated_at": "2025-08-07T16:23:37.529Z",
   "updated_by": "ndamours14"
 }
