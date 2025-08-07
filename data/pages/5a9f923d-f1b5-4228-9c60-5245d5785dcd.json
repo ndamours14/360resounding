@@ -4,11 +4,12 @@
   "created_by": "ndamours14",
   "title": "The Bards of March at University of Alberta, 1986 Part I",
   "slug": "the-bards-of-march-at-university-of-albert--3",
-  "updated_at": "2025-08-07T15:32:49.320Z",
+  "updated_at": "2025-08-07T15:39:18.305Z",
   "updated_by": "ndamours14",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "17fc0a13-e63c-45ba-ad65-ea12923b4844"
-  }
+  },
+  "parent": "92e229f1-00d5-4ac5-99e9-6d9d4a8c9e95"
 }
