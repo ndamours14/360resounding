@@ -181,11 +181,20 @@
               ]
             },
             {
-              "uuid": "17fc0a13-e63c-45ba-ad65-ea12923b4844",
+              "uuid": "4e379924-9bba-45bc-afad-c918e2324df2",
               "includes": [
-                "media"
+                "media",
+                "annotations"
               ],
               "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -415,6 +424,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-09T22:44:45.561Z",
+  "updated_at": "2025-08-09T22:47:25.079Z",
   "updated_by": "ndamours14"
 }
