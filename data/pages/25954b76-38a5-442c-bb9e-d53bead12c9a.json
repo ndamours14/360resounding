@@ -121,15 +121,7 @@
           "italic": true
         },
         {
-          "text": "."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": ". "
         }
       ]
     },
@@ -164,71 +156,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": " "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\nThis video was created by Natasha D'Amours and Sarah Freeman for the 2025 SpokenWeb Symposium, with assistance from Michael O’Driscoll, Sean Luyk, Michael MacKenzie, Xuege Wu, Robert Montgomery at the Northern Alberta Jubilee Auditorium, and Courtney Higgins at the Art Gallery of Alberta. "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": " \nThis video was created by Natasha D'Amours and Sarah Freeman for the 2025 SpokenWeb Symposium, with assistance from Michael O’Driscoll, Sean Luyk, Michael MacKenzie, Xuege Wu, Robert Montgomery at the Northern Alberta Jubilee Auditorium, and Courtney Higgins at the Art Gallery of Alberta. "
                 }
               ]
             },
@@ -384,9 +312,6 @@
         {
           "textSize": "heading-two",
           "text": "SpokenWeb Virtual Audio Experience "
-        },
-        {
-          "text": "\n"
         }
       ]
     },
@@ -429,22 +354,6 @@
         },
         {
           "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -507,6 +416,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-09T23:06:32.033Z",
+  "updated_at": "2025-08-09T23:09:22.841Z",
   "updated_by": "ndamours14"
 }
