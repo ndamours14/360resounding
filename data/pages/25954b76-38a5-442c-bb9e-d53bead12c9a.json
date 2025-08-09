@@ -46,7 +46,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In May of 2025, members of the SpokenWeb SSHRC Partnership came together at the University of British Columbia Okanagan in Kelowna, BC for the partnership's final annual Sound Institute, entitled "
+          "text": "In May of 2025, members of the "
+        },
+        {
+          "text": "SpokenWeb SSHRC Partnership",
+          "link": "https://spokenweb.ca/"
+        },
+        {
+          "text": " came together at the University of British Columbia Okanagan in Kelowna, BC for the partnership's final annual Sound Institute, entitled "
         },
         {
           "text": "Re-Sounding Poetries: Collections, Classrooms, Communities",
@@ -100,7 +107,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "As part of the SpokenWeb Collections Showcase, where each institution was invited to creatively present on their team's collection, the University of Alberta SpokenWeb team presented a 360° video (sometimes referred to as a virtual reality or VR video) entitled "
+          "text": "As part of the SpokenWeb Collections Showcase, where each institution was invited to creatively present on their team's collection, the "
+        },
+        {
+          "text": "University of Alberta SpokenWeb team",
+          "link": "https://spokenweb.ualberta.ca/spokenweb-ualberta/"
+        },
+        {
+          "text": " presented a 360° video (sometimes referred to as a virtual reality or VR video) entitled "
         },
         {
           "text": "SpokenWeb UAlberta in 360°",
@@ -339,6 +353,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-07T17:33:06.738Z",
+  "updated_at": "2025-08-09T22:38:07.032Z",
   "updated_by": "ndamours14"
 }
