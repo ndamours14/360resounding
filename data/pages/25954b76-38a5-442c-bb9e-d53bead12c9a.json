@@ -126,7 +126,7 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "block-quote",
       "children": [
         {
           "text": "A fusion of past and present technology. Literary recordings from the 1960s-80s are played on a 1960s Sony TC-102 portable reel-to-reel tape player, in the same Edmonton locations where they were originally recorded decades earlier. This 360° video was recorded using an Insta360 X4 camera and a Zoom H3-VR ambisonic mic, and can be viewed using a VR headset to visually and sonically place the viewer inside the recorded moment. ",
@@ -364,6 +364,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-09T23:19:22.778Z",
+  "updated_at": "2025-08-14T17:13:57.211Z",
   "updated_by": "ndamours14"
 }
