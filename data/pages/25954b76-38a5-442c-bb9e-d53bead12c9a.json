@@ -121,15 +121,15 @@
           "italic": true
         },
         {
-          "text": ". \n"
+          "text": ". "
         }
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "children": [
         {
-          "text": "A fusion of past and present technology. Literary recordings from the 1960s-80s are played on a 1960s Sony TC-102 portable reel-to-reel tape player, in the same Edmonton locations where they were originally recorded decades earlier. This 360° video was recorded using an Insta360 X4 camera and a Zoom H3-VR ambisonic mic, and can be viewed using a VR headset to visually and sonically place the viewer inside the recorded moment. ",
+          "text": " ",
           "italic": true
         }
       ]
@@ -138,7 +138,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " \nThis video was created by Natasha D'Amours and Sarah Freeman for the 2025 SpokenWeb Symposium, with assistance from Michael O’Driscoll, Sean Luyk, Michael MacKenzie, Xuege Wu, Robert Montgomery at the Northern Alberta Jubilee Auditorium, and Courtney Higgins at the Art Gallery of Alberta. "
+          "text": "This video is a fusion of past and present technology. Literary recordings from the 1960s-80s are played on a 1960s Sony TC-102 portable reel-to-reel tape player, in the same Edmonton locations where they were originally recorded decades earlier. This 360° video was recorded using an Insta360 X4 camera and a Zoom H3-VR ambisonic mic, and can be viewed using a VR headset to visually and sonically place the viewer inside the recorded moment. "
         }
       ]
     },
@@ -146,7 +146,31 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Created by Natasha D'Amours and Sarah Freeman for the 2025 SpokenWeb Symposium, with assistance from Michael O’Driscoll, Sean Luyk, Michael MacKenzie, Xuege Wu, Robert Montgomery at the Northern Alberta Jubilee Auditorium, and Courtney Higgins at the Art Gallery of Alberta. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         },
         {
           "type": "link",
@@ -364,6 +388,6 @@
   "slug": "home-page",
   "created_at": "2025-07-14T16:35:56.718Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-14T17:13:57.211Z",
+  "updated_at": "2025-08-14T17:21:23.269Z",
   "updated_by": "ndamours14"
 }
